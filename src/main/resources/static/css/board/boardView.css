@@ -1,0 +1,87 @@
+#content {
+    width: 1400px;
+    margin: 50px auto;
+}
+#board_bar {
+	height: 30px;
+	width: 100%;
+	background-color:  #2E9BFF;
+	padding: 5px;
+}
+#board_bar span {
+	color: white;
+	font-weight: bold;
+	margin-left: 50px;
+}
+#wrap_hm {
+    width: 100%;
+    padding: 30px;
+    border: 1px solid rgba(128, 128, 128, 0.2);
+    border-radius: 5px;
+}
+#content_header {
+    margin-bottom: 10px;
+}
+#ch_title {
+	 width: 100%;
+}
+#ch_title span {
+	 font-size: 1.5em;
+}
+#ch_id {
+    margin-top: 10px;
+    font-size: 1.2em;
+    float: left;
+}
+#ch_date {
+    margin-top: 5px;
+    font-size: 0.8em;
+    float: right;
+}
+#content hr {
+    border-color: rgba(128, 128, 128, 0.2);
+    margin: 20px 0;
+}
+#content_main {
+	
+}
+#comment {
+    margin: 0 auto;
+    width: 100%;
+}
+#comment p {
+	font-size: 1.3em;
+}
+#comment span {
+    margin-top: 5px;
+    display: block;
+}
+#comment_list {
+	margin-top: 20px;
+	padding: 10px;
+}
+#comment_write{
+	width: 100%;
+	height: 100px;
+	
+}
+#comment_write  textarea {
+    resize: none;
+    padding: 10px;
+    overflow-y: hidden;
+    width: 90%;
+    float: left;
+    height: 100px;
+}
+#comment_write  button {
+	padding: 8px;
+	background-color: #2E9BFF;
+	border: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	width: 10%;
+	float: left;
+	height: 100px;
+}
+
